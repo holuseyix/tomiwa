@@ -1,0 +1,573 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url();
+    max-width: 1200px;
+}
+
+.every1 {
+    margin-left: 9.5rem;
+}
+
+.container1 {
+    height: 30rem;
+    width: 15rem;
+    background-color: rgb(18, 53, 160);
+    border-radius: 20px;
+    margin-left: 20rem;
+    margin-top: 9rem;
+}
+
+.box-img {
+    border: 3px solid white;
+    width: 14rem;
+    margin-top: -29.5rem;
+    margin-left: 20.5rem;
+    border-radius: 20px;
+    height: 13rem;
+}
+
+.img {
+    height: 19rem;
+    width: 18rem;
+    margin-top: -6.3rem;
+    margin-left: -3rem;
+}
+
+.box-tom {
+    border: 3px solid white;
+    width: 13rem;
+    height: 3rem;
+    border-radius: 20px;
+    margin-left: 21rem;
+    margin-top: 1rem;
+}
+
+.box-tom-text {
+    margin-top: 0.5rem;
+    margin-left: 0.7rem;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box-tom2 {
+    border: 3px solid white;
+    width: 10rem;
+    height: 4rem;
+    border-radius: 20px;
+    margin-left: 22.5rem;
+    margin-top: 1.5rem;
+}
+
+.box-tom-text2 {
+    margin-top: -0.1rem;
+    margin-left: 0.9rem;
+    color: white;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Hire-me {
+    height: 3rem;
+    width: 10rem;
+    background-color: rgb(18, 53, 160);
+    cursor: pointer;
+    margin-left: 22.5rem;
+    margin-top: 2rem;
+    border-radius: 15px;
+    border: 3px solid white;
+}
+
+.Hire-me a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.Hire-me:hover {
+    transform: scale(1.1, 1.1);
+    opacity: 60%;
+}
+.Hire-me:active{
+    transform: scale(1.1, 1.1);
+    opacity: 30%;
+}
+
+.container2 {
+    height: 35rem;
+    width: 22rem;
+    background-color: rgb(18, 53, 160);
+    border-radius: 20px;
+    margin-left: 48rem;
+    margin-top: -30.5rem;
+}
+
+.about-box {
+    background-color: transparent;
+    border: 3px solid white;
+    height: 3rem;
+    width: 9rem;
+    border-radius: 20px;
+    margin-left: 54.6rem;
+    margin-top: -34.5rem;
+}
+
+.about-text {
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1rem;
+    margin-top: 0.2rem;
+}
+
+.about-line {
+    margin-top: 1.3rem;
+    width: 26rem;
+    margin-left: -7rem;
+    height: 0.2rem;
+    border: none;
+    background-color: white;
+}
+
+.about-main-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 48.8rem;
+    margin-top: 1rem;
+    color: #fff;
+}
+
+.about-main-line {
+    margin-top: 0.6rem;
+    width: 26rem;
+    margin-left: 45rem;
+    height: 0.2rem;
+    border: none;
+    background-color: white;
+}
+
+.skills-box {
+    height: 3rem;
+    width: 9rem;
+    background-color: transparent;
+    border-radius: 20px;
+    margin-left: 54.6rem;
+    margin-top: 0.7rem;
+    border: 3px solid white;
+}
+.skills-box-text{
+    color: white;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 2.5rem;
+    margin-top: 0.2rem;
+
+}
+.html-text{
+    margin-top: -1.5rem;
+    margin-left: 9rem;
+    font-size: 15px;
+    color: rgb(51, 99, 242);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.html{
+    height: 1.5rem;
+    width: 18rem;
+    margin-top: 1.5rem;
+    margin-left: -6rem;
+    background-color: white;
+    border-radius: 10px;
+}
+.html2{
+    height: 1.5rem;
+    width: 14rem;
+    margin-top: -20.3px;
+    margin-left: -6.1rem;
+    background-color: rgb(0, 149, 255);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.html-text2{
+    margin-top: -1.6rem;
+    margin-left: 1rem;
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.css-text{
+    margin-top: -1.5rem;
+    margin-left: 9rem;
+    font-size: 15px;
+    color: rgb(51, 99, 242);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.css{
+    height: 1.5rem;
+    width: 18rem;
+    margin-top: 1.5rem;
+    margin-left: -6rem;
+    background-color: white;
+    border-radius: 10px;
+}
+.css2{
+    height: 1.5rem;
+    width: 14rem;
+    margin-top: -20px;
+    margin-left: -6.1rem;
+    background-color: rgb(0, 149, 255);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.css-text2{
+    margin-top: -1.6rem;
+    margin-left: 1rem;
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.java-text{
+    margin-top: -1.6rem;
+    margin-left: 9rem;
+    font-size: 10px;
+    color: rgb(51, 99, 242);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.java{
+    height: 1.5rem;
+    width: 18rem;
+    margin-top: 1.5rem;
+    margin-left: -6rem;
+    background-color: white;
+    border-radius: 10px;
+}
+.java2{
+    height: 1.5rem;
+    width: 13rem;
+    margin-top: -24px;
+    margin-left: -6.1rem;
+    background-color: rgb(0, 149, 255);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.java-text2{
+    margin-top: -1.6rem;
+    margin-left: 1rem;
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.photoshop-text{
+    margin-top: -1.3rem;
+    margin-left: 7.3rem;
+    font-size: 12px;
+    color: rgb(51, 99, 242);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.photoshop{
+    height: 1.5rem;
+    width: 18rem;
+    margin-top: 1.5rem;
+    margin-left: -6rem;
+    background-color: white;
+    border-radius: 10px;
+}
+.photoshop2{
+    height: 1.5rem;
+    width: 16rem;
+    margin-top: -19px;
+    margin-left: -6.1rem;
+    background-color: rgb(0, 149, 255);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.photoshop-text2{
+    margin-top: -1.6rem;
+    margin-left: 1rem;
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hack{
+    color: #fff;
+}
+.lightroom-text{
+    margin-top: -1.3rem;
+    margin-left: 7.3rem;
+    font-size: 12px;
+    color: rgb(51, 99, 242);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lightroom{
+    height: 1.5rem;
+    width: 18rem;
+    margin-top: 1.5rem;
+    margin-left: -6rem;
+    background-color: white;
+    border-radius: 10px;
+}
+.lightroom2{
+    height: 1.5rem;
+    width: 16rem;
+    margin-top: -19px;
+    margin-left: -6.1rem;
+    background-color: rgb(0, 149, 255);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.lightroom-text2{
+    margin-top: -1.6rem;
+    margin-left: 1rem;
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pixellab-text{
+    margin-top: -1.3rem;
+    margin-left: 8.3rem;
+    font-size: 12px;
+    color: rgb(51, 99, 242);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pixellab{
+    height: 1.5rem;
+    width: 18rem;
+    margin-top: -1rem;
+    margin-left: -6rem;
+    background-color: white;
+    border-radius: 10px;
+}
+.pixellab2{
+    height: 1.5rem;
+    width: 16rem;
+    margin-top: -19px;
+    margin-left: -6.1rem;
+    background-color: rgb(0, 149, 255);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.pixellab-text2{
+    margin-top: -1.6rem;
+    margin-left: 1rem;
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.m{
+    margin-top: 2.5rem;
+}
+.mind{
+    color: rgb(0, 242, 255);
+}
+@media(max-width:600px) {
+    .container1{
+        height: 50rem;
+        width: 25rem;
+        margin-top: 20rem;
+        margin-left: 10rem;
+    }
+    .box-img{
+        height: 27rem;
+        width: 22rem;
+        margin-left: 11.5rem;
+        margin-top: -49rem;
+    }
+    .img{
+        height: 36rem;
+        width: 30rem;
+        margin-left: -4.8rem;
+        margin-top: -9.3rem;
+    }
+    .box-tom{
+        height: 5rem;
+        width: 15rem;
+        margin-left: 15rem;
+        margin-top: 2rem;
+    }
+    .box-tom-text{
+        margin-top: 1.5rem;
+        margin-left: 1rem;
+        font-size: 21px;
+    }
+    .box-tom2{
+        height: 8rem;
+        width: 17rem;
+        margin-left: 14.2rem;
+        margin-top: 2rem;
+    }
+    .box-tom-text2{
+        margin-top: 0.2rem;
+        margin-left: 1rem;
+        font-size: 28px;
+    }
+    .Hire-me{
+        margin-left: 17rem;
+        margin-top: 60rem;
+        height: 4rem;
+        width: 10rem;
+    }
+    .container2{
+        margin-top: -57rem;
+        height: 58rem;
+        width: 42rem;
+        margin-left: 10rem;
+    }
+    .about-box{
+        margin-left: 21rem;
+        height: 5rem;
+        width: 20rem;
+        margin-top: -57rem;
+    }
+    .about-text{
+        font-size: 3rem;
+        margin-left: 3rem;
+    }
+    .about-line{
+        width: 45rem;
+        margin-left: -12rem;
+    }
+    .about-main-text{
+        margin-left: 12rem;
+        font-size: 34px;
+        width: 40rem;
+    }
+    .about-main-line{
+        margin-left: 10rem;
+        width: 45rem;
+    }
+    .skills-box{
+        height: 5rem;
+        width: 15rem;
+        margin-left: 25rem;
+        margin-top: 1rem;
+    }
+    .skills-box-text{
+        font-size: 3rem;
+        margin-left: 4rem;
+    }
+    .html{
+        height: 2.5rem;
+        width: 30rem;
+        margin-left: -8rem;
+    }
+    .html-text{
+        font-size: 1.5rem;
+        margin-left: 17.5rem;
+        margin-top: -2.3rem;
+    }
+    .html2{
+        height: 2.5rem;
+        width: 25rem;
+        margin-left: -8rem;
+        margin-top: -35px;
+    }
+    .html-text2{
+        font-size: 2rem;
+        margin-left: 4rem;
+        margin-top: -2.6rem;
+    }
+    .css{
+        height: 2.5rem;
+        width: 30rem;
+        margin-left: -8rem;
+    }
+    .css-text{
+        font-size: 1.5rem;
+        margin-left: 17.5rem;
+        margin-top: -2.3rem;
+    }
+    .css2{
+        height: 2.5rem;
+        width: 25rem;
+        margin-left: -8rem;
+        margin-top: -36px;
+    }
+    .css-text2{
+        font-size: 2rem;
+        margin-left: 4rem;
+        margin-top: -2.6rem;
+    }
+    .java{
+        height: 2.5rem;
+        width: 30rem;
+        margin-left: -8rem;
+    }
+    .java-text{
+        font-size: 1rem;
+        margin-left: 17.5rem;
+        margin-top: -2.6rem;
+    }
+    .java2{
+        height: 2.5rem;
+        width: 23rem;
+        margin-left: -8rem;
+        margin-top: -41px;
+    }
+    .java-text2{
+        font-size: 2rem;
+        margin-left: 4rem;
+        margin-top: -2.6rem;
+    }
+    .photoshop{
+        height: 2.5rem;
+        width: 30rem;
+        margin-left: -8rem;
+    }
+    .photoshop-text{
+        font-size: 1rem;
+        margin-left: 15.5rem;
+        margin-top: -2rem;
+    }
+    .photoshop2{
+        height: 2.5rem;
+        width: 27rem;
+        margin-left: -8rem;
+        margin-top: -30px;
+    }
+    .photoshop-text2{
+        font-size: 2rem;
+        margin-left: 4rem;
+        margin-top: -2.5rem;
+    }
+    .lightroom{
+        height: 2.5rem;
+        width: 30rem;
+        margin-left: -8rem;
+    }
+    .lightroom-text{
+        font-size: 1rem;
+        margin-left: 15.5rem;
+        margin-top: -2rem;
+    }
+    .lightroom2{
+        height: 2.5rem;
+        width: 27rem;
+        margin-left: -8rem;
+        margin-top: -29px;
+    }
+    .lightroom-text2{
+        font-size: 2rem;
+        margin-left: 4rem;
+        margin-top: -2.5rem;
+    }
+    .pixellab{
+        height: 2.5rem;
+        width: 30rem;
+        margin-left: -8rem;
+    }
+    .pixellab-text{
+        font-size: 1rem;
+        margin-left: 16.8rem;
+        margin-top: -2rem;
+    }
+    .pixellab2{
+        height: 2.5rem;
+        width: 27rem;
+        margin-left: -8rem;
+        margin-top: -30px;
+    }
+    .pixellab-text2{
+        font-size: 2rem;
+        margin-left: 4rem;
+        margin-top: -2.5rem;
+    }
+}
